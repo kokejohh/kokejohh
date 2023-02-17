@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pitchakorn Thiprangsi
+Sawasdee ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pitchakorn Thiprangsi
 =============================================================================================================================================
 
 Student
@@ -49,5 +49,3 @@ I love to code.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/kokejohh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kokejohh&bg_color=27272a&color=ffffff&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/kokejohh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokejohh&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
