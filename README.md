@@ -6,7 +6,7 @@ Student
 
 I love to code.
 
-* 🌍  I'm based in Thanland
+* 🌍  I'm based in Thailand
 * ✉️  You can contact me at [kokejohh@gmail.com](mailto:kokejohh@gmail.com)
 
 ### Skills
